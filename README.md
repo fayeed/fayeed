@@ -19,7 +19,7 @@
 Hi, I'm Fayeed Pawaskar, a Full Stack Developer 🚀 from India, currently, I am completing my final sem in Computer Science & work on small open source projects.
 I'm open to new opportunities, I mostly work with React, NodeJS & Flutter, if you think I would be a good fit for your company hit me up.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" />
   
 **Talking about Personal Stuffs:**
 
