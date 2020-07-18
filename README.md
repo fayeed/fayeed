@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Fayeed!](https://github.com/fayeed) 
+### Hey 👋🏽, I'm [Fayeed!](https://github.com/fayeed) &nbsp;![](https://komarev.com/ghpvc/?username=fayeed)
 
 <a href="https://twitter.com/fayeedP">
   <img align="left" alt="Fayeed Pawaskar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -45,15 +45,3 @@ on Produt hunt and it ended up getting 250+ ⭐️.
 
 
 ![Fayeed's github stats](https://github-readme-stats.vercel.app/api?username=fayeed&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-⭐️ &nbsp;From  [fayeed](https://github.com/fayeed)
-
-
-<a href="https://github.com/fayeed/dash_chat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fayeed&repo=dash_chat" />
-</a>
-
-<a href="https://github.com/fayeed/flutter_parsed_text">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fayeed&repo=flutter_parsed_text" />
-</a>
-
