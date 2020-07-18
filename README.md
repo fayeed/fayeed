@@ -23,14 +23,13 @@ I'm open to new opportunities, I mostly work with React, NodeJS & Flutter, if yo
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a chrome extension called Swazy;
-- 🌱 I’m currently learning Go and GraphQL; 
-- 👯 I’m looking to collaborate on [Dash chat](https://github.com/fayeed/dash_chat) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I recently lauched a small web app called [ChartNerd](https://chart-nerd.now.sh/) - Charts for Notion Databases, 
+- 👨🏽‍💻 &nbsp;I’m currently working on a chrome extension called Swazy;
+- 🌱 &nbsp;I’m currently learning Go and GraphQL; 
+- 👯 &nbsp;I’m looking to collaborate on [Dash chat](https://github.com/fayeed/dash_chat) 🤝;
+- 💬 &nbsp;Ask me about anything, I am happy to help;
+- ⚡️ &nbsp;Fun-Fact: I recently lauched a small web app called [ChartNerd](https://chart-nerd.now.sh/) - Charts for Notion Databases, 
 on Produt hunt and it ended up getting 250+ ⭐️. 
-- 📫 How to reach me: fayeed@live.com;
+- 📫 &nbsp;How to reach me: fayeed@live.com;
 
 **Languages and Tools:**  
 
