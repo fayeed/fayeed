@@ -31,6 +31,8 @@
   
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a chat app in minutes in Flutter](https://fayeed.dev/blog/create-a-chat-app-in-minutes-in-flutter)
+- [How to make inline links in Flutter.](https://fayeed.dev/blog/how-to-make-inline-links-in-flutter)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
