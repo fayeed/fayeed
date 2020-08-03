@@ -1,5 +1,5 @@
 <a href="https://fayeed.now.sh">
-	<img src="Banner.svg" width="100%" />
+	<img src="https://github.com/fayeed/fayeed/blob/master/Banner.svg" width="100%" />
 </a>
 <br />
 <br />
