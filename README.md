@@ -30,6 +30,7 @@
   
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating sitemap for your Nextjs SSG (Static Site Generation) website.](https://fayeed.dev/blog/generating-sitemap-for-your-nextjs-website)
 - [Building my personal website using Nextjs SSG (Static Site Generation)](https://fayeed.dev/blog/building-my-personal-website-using-nextjs-ssg)
 - [How to make inline links in Flutter.](https://fayeed.dev/blog/how-to-make-inline-links-in-flutter)
 - [Create a chat app in minutes in Flutter](https://fayeed.dev/blog/create-a-chat-app-in-minutes-in-flutter)
