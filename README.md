@@ -1,5 +1,5 @@
 <a href="https://fayeed.now.sh">
-	<img src="https://github-banner.vercel.app/api/social?headline=Hi%2C%20I%20am%20Fayeed%20Pawaskar%20-%20%3Cbr%20%2F%3E%20Code%20Tinkerer%20%26%20Software%20Engineer&subheading=I%E2%80%99m%20open%20to%20new%20opportunities,%20I%20mostly%20work%20with%20ReactJS,%20NodeJS%20%3Cbr%20/%3E%20Flutter,%20if%20you%20think%20I%20would%20be%20a%20good%20fit%20for%20your%20company%20contact%20me.&linkedIn=fayeed.pawaskar&github=@fayeed&stackoverflow=@fayeed&twitter=@fayeedP&rss=fayeed.dev/rss.xml&mail=fayeed@live.com" width="100%" height="300" />
+	<img src="https://github-banner.vercel.app/api/social?headline=Hi%2C%20I%20am%20Fayeed%20Pawaskar%20-%20%3Cbr%20%2F%3E%20Code%20Tinkerer%20%26%20Software%20Engineer&linkedIn=fayeed.pawaskar&github=@fayeed&stackoverflow=@fayeed&twitter=@fayeedP&rss=fayeed.dev/rss.xml&mail=fayeed@live.com" width="100%" height="300" />
 </a>
 <br />
 <br />
