@@ -30,6 +30,7 @@
   
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using HTML in SVG (Wait, What?)](https://fayeed.dev/blog/using-html-in-svg)
 - [Generating a sitemap for your static Nextjs website.](https://fayeed.dev/blog/generating-sitemap-for-your-nextjs-website)
 - [Building my personal website using Nextjs SSG (Static Site Generation)](https://fayeed.dev/blog/building-my-personal-website-using-nextjs-ssg)
 - [How to make inline links in Flutter.](https://fayeed.dev/blog/how-to-make-inline-links-in-flutter)
