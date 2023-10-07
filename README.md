@@ -1,4 +1,4 @@
-<h1 style="font-size: 100px;">In Rust and TypeScript, I code, young developer. Currently building, a Digital Nervous System for the New Web, hmmm. Powerful tools, they are, hmmm.</h1>
+<h1 style="font-size: 100px;">In Rust and TypeScript, I code, young developer. Currently building, a Digital Nervous System for the New Web at Coasys, hmmm. Powerful tools, they are, hmmm.</h1>
 
 <div style="display:flex; width: 100%; justify-content: center; flex-direction: column; align-items: center;">
 	<div>
